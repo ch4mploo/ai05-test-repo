@@ -3,7 +3,7 @@
 The aim of this project is to create a highly accurate deep learning model to predict breast cancer (whether the tumour is malignant or benign). The model is trained with [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## 2. IDE and Framework
-This project is created using Sypder as the main IDE. The main frameworks used in this projects are Pandas, Scikit-learn and TensorFlow Keras.
+This project is created using Sypder as the main IDE. The main frameworks used in this project are Pandas, Scikit-learn and TensorFlow Keras.
 
 ## 3. Methodology
 ### 3.1. Data Pipeline
